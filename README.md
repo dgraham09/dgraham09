@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey  👋
+
+### I'm a Junior Full Stack developer with a strong strategic mindset and a keen interest in developing technology to meet business needs and solve challenging issues. 
+
+### I have a solid understanding of the attributes needed to work on strategic initiatives in an agile manner with a growing skill set in: 
+
+![image](https://github.com/dgraham09/dgraham09/assets/79008613/0c256bee-9dcd-4d39-8f52-0a4a920c33d9)
+Javascript and React. Experienced communicator with senior stakeholders with a proven ability to develop strong relationships and work collaboratively and pragmatically across different cultures. 
+
+
+###  🔭 I’m currently working on ...
+### 🌱 I’m currently learning ...
+### 👯 I’m looking to collaborate on ...
 
 <!--
 **dgraham09/dgraham09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
