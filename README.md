@@ -1,6 +1,6 @@
 ### A bit about me: 
 
-# Hey there  👋
+Hey there  👋
 
 I'm a Junior Full Stack developer in Paris with a strong strategic mindset and a keen interest in developing technology to meet business needs and solve challenging issues. 
 
