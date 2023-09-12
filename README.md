@@ -1,4 +1,4 @@
-### About me: 
+### A bit about me: 
 
 # Hey there  👋
 
